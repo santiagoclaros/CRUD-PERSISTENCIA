@@ -1,0 +1,10 @@
+id;fecha;tipo;categoria;monto;descripcion
+1;2026-11-05;INGRESO;Salario;2400.00;"Salario mensual"
+2;2026-11-11;GASTO;Alimentacion;86.40;"Compra semanal"
+3;2026-11-15;GASTO;Transporte;32.00;"Transporte público"
+4;2026-11-19;GASTO;Vivienda;760.00;"Alquiler"
+5;2026-11-21;GASTO;Ocio;45.50;"Actividad recreativa"
+6;2026-11-23;GASTO;Ocio;31.00;"TheForest"
+7;2026-11-11;INGRESO;Transporte;30.00;"venta de chat bot"
+8;2026-11-21;GASTO;Ocio;45.50;"Actividad recreativa"
+9;2026-11-23;GASTO;Alimentacion;100.00;"despensa semanal"
